@@ -1,2 +1,3 @@
 # C-Programming
-- ** Code With C Programing If Else And Array **
+**Code With C Programming If Else And Array**
+## Author : Asif Hasan
